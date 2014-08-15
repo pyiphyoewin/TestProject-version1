@@ -47,7 +47,7 @@ Functions for Tutor
 
 -Disapproved all students' attendances
 
--Create all students' invoices for courrent month
+-Create all students' invoices for current month
 
 -Update all students' invoices
 
